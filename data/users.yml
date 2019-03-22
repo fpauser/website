@@ -1179,7 +1179,7 @@
   alt: Linkfire
   use: "Linkfire uses Ember to build music campaign tools as well as other internal/external projects"
 - url: https://voestalpine.com
-  image: voestalpine.svg
+  image: voestalpine.png
   alt: voestalpine AG
   use: "We use Ember at voestalpine SIGNALING Siershahn GmbH (subsidiary of voestalpine AG) to build internal and external applications in the railway sector (alarming, monitoring, fleet management)"
 
